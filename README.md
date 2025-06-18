@@ -50,7 +50,7 @@ questions = [
     "Which language is this? (A) Python (B) Java (C) C++ (D) Ruby"  
 ]  
 
-answers = ["b", "a"]  # Correct options (lowercase)  
+answers = ["b", "a"]  # Correct options
 
 # Run the test!  
 evaluator = MCQEvaluator(model_name="your-model")
