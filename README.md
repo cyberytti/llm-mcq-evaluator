@@ -53,7 +53,9 @@ questions = [
 answers = ["b", "a"]  # Correct options (lowercase)  
 
 # Run the test!  
-evaluator = MCQEvaluator(model_name="your-model")  
+evaluator = MCQEvaluator(model_name="your-model")
+
+# Run evaluation with 30-second timeout per question 
 evaluator.run_test(questions, answers, time_limit=30)  
 ```  
 
