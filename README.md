@@ -13,7 +13,7 @@
 
 ### **1️⃣ Clone & Install**  
 ```bash
-git clone https://github.com/cyberytti/llm-mcq-evaluator
+git clone https://github.com/cyberytti/llm-mcq-evaluator.git
 cd llm-mcq-evaluator  
 ```  
 
@@ -110,7 +110,7 @@ MIT License - **Free to use & modify!**
 🚀 **Clone the repo & start evaluating today!**  
 
 ```bash
-git clone https://github.com/cyberytti/llm-mcq-evaluator
+git clone https://github.com/cyberytti/llm-mcq-evaluator.git
 ```  
 
 **Happy Testing!** 🎯🤖
