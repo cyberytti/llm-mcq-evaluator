@@ -47,7 +47,7 @@ from test_script import MCQEvaluator
 
 questions = [  
     "What is 2+2? (A) 3 (B) 4 (C) 5 (D) 6",  
-    "Which language is this? (A) Python (B) Java (C) C++ (D) Ruby"  
+    "Which of the following is a programming language? (A) Python (B) HTML (C) JSON (D) CSV"  
 ]  
 
 answers = ["b", "a"]  # Correct options
