@@ -86,7 +86,7 @@ model=Ollama(id=self.model_name),  # 🔄 Update model initialization
 
 ## 📹 **Watch It in Action!**
 
-[Watch Demo](https://github.com/cyberytti/llm-mcq-evaluator/blob/main/test_LLM.mp4)
+! [Watch Demo](https://github.com/cyberytti/llm-mcq-evaluator/blob/main/test_LLM.gif)
 
 ---
 
