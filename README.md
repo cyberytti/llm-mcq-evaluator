@@ -88,7 +88,7 @@ model=Ollama(id=self.model_name),  # 🔄 Update model initialization
 
 ---
 
-## 📹 **Watch It in Action!**
+## 📹 **Watch It in Action!** *(coming soon)*
 
 ---
 
