@@ -1,7 +1,7 @@
 # 🚀 **LLM MCQ Evaluator** - *Test Your LLMs with MCQ questions!* 🧠💡  
 
 <p align="center">
-  <img src="logo.png" alt="LLM MCQ Evaluator Logo" width="auto" height="400"/>
+  <img src="logo.png" alt="LLM MCQ Evaluator Logo" width="300" height="300"/>
 </p>
     
 **A powerful Python module to evaluate Large Language Models (LLMs) using your own custom multiple-choice questions (MCQs).**  
