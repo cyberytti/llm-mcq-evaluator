@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="LLM MCQ Evaluator Logo" width="500"/>
+  <img src="logo.png" alt="LLM MCQ Evaluator Logo" width="600"/>
 </p>
 
 # 🚀 **LLM MCQ Evaluator** - *Test Your LLMs with MCQ questions!* 🧠💡  
